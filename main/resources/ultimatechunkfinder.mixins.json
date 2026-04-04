@@ -1,0 +1,27 @@
+{
+  "required": true,
+  "package": "dev.david.huzzclient.mixin",
+  "refmap": "huzzclient.refmap.json",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "CameraMixin",
+    "CrafterScreenAccessor",
+    "ChunkDeltaUpdateS2CPacketAccessor",
+    "ClientPlayNetworkHandlerMixin",
+    "ClientPlayerEntityMixin",
+    "GameRendererMixin",
+    "InGameHudMixin",
+    "InputAccessor",
+    "ItemEntityRendererMixin",
+    "KeyboardInputMixin",
+    "LivingEntityMixin",
+    "MinecraftClientMixin",
+    "MouseMixin",
+    "PlayerEntityRendererMixin",
+    "PlayerListHudMixin",
+    "SimpleOptionAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
