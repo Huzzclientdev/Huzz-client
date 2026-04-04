@@ -33,10 +33,13 @@ Utility -
   *Crafter macro - auto selects sqaures inside of a crafter
 
 Modules planned for next update - 
-
+  
   *Skin protect
   *Swing speed
   *Chat macro
   *Auto rocket
   *Hole esp
   *Anti chunk finder - finds empty chunks to build bases in
+
+Patches planned for next update - 
+  *fix chunk finder modules - chunk finder, time debug, prime chunk.
