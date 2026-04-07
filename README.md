@@ -9,37 +9,33 @@ Render -
   *Prime chunk(possibly not working)
   *Block ESP
   *Storage ESP
+  *Hole ESP
   *Player ESP
   *Full bright
   *Item tags
   *Hud
 
 Movement - 
+  *Swing speed
   *Free cam
   *Free look
   *Fast use
   *Auto totem(Auto inventory totem)
+  *Auto rocket
 
 Player - 
   *Player notify
+  *Auto disconnect
+  *Skin protect
   *Fake media
   *Fake pay
   *Fake stats
   *Name protect
 
 Utility - 
+  *Auto reconnect
   *Stash finder
   *Block notify
+  *Chat macro
   *Crafter macro - auto selects sqaures inside of a crafter
 
-Modules planned for next update - 
-  
-  *Skin protect
-  *Swing speed
-  *Chat macro
-  *Auto rocket
-  *Hole esp
-  *Anti chunk finder - finds empty chunks to build bases in
-
-Patches planned for next update - 
-  *fix chunk finder modules - chunk finder, time debug, prime chunk.
