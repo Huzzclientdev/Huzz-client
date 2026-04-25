@@ -4,9 +4,6 @@ A simple add-on that aims to improve quality of life and ease finding bases on M
 Current modules as of version 3.3.0 - 
 
 Render - 
-  *Chunk finder(possibly not working)
-  *Time debug(possibly not working)
-  *Prime chunk(possibly not working)
   *Block ESP
   *Storage ESP
   *Hole ESP
