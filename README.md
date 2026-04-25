@@ -1,7 +1,7 @@
 # Huzz-client 1.21.11
 A simple add-on that aims to improve quality of life and ease finding bases on Minecraft servers. Mainly aimed at DonutSMP.
 
-Current modules as of version 3.2.3 - 
+Current modules as of version 3.3.0 - 
 
 Render - 
   *Chunk finder(possibly not working)
@@ -18,6 +18,8 @@ Render -
   *Motion blur
   *Block select
   *Custom fov
+  *Fake elytra
+  *Fake spawner - work in progress
 
 Movement - 
   *Swing speed
@@ -28,6 +30,7 @@ Movement -
   *Auto rocket
   *Auto refill
   *Auto bridge
+  *Double click
 
 Player - 
   *Player notify
@@ -37,6 +40,7 @@ Player -
   *Fake pay
   *Fake stats
   *Name protect
+  *67
 
 Utility - 
   *Auto reconnect
@@ -44,4 +48,4 @@ Utility -
   *Block notify
   *Chat macro
   *Crafter macro - auto selects sqaures inside of a crafter
-
+  *Silent sethome - work in progress
