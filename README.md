@@ -4,9 +4,9 @@ A simple add-on that aims to improve quality of life and ease finding bases on M
 Current modules as of version 3.3.3 - 
 
 Render - 
-  *Block ESP
-  *Storage ESP
-  *Hole ESP
+  *Block ESP  
+  *Storage ESP  
+  *Hole ESP  
   *Player ESP
   *Full bright
   *Item tags
