@@ -3,61 +3,62 @@ A simple add-on that aims to improve quality of life and ease finding bases on M
   
 !!Some visual features do not work with some performance mods!!  
   
-Current modules as of version 3.3.3 -  
+Current modules as of version 3.4.0 -  
   
 Render -  
-  *Block ESP  
-  *Storage ESP  
-  *Hole ESP  
-  *Player ESP  
-  *Full bright  
-  *Item tags  
-  *Hud  
-  *Break bar  
-  *Motion blur  
-  *Block select  
-  *Custom fov  
-  *Fake elytra  
-  *Fake spawner - work in progress  
-  *Bedrock hole esp - only 2x1x1 for now  
-  *Time changer - client side  
+  *Block esp  
+  *Storage esp
+  *Hole esp
+  *Bedrock hole esp - areas surrounded by bedrock  
+  *Player esp    
   *Mob esp  
-  *No render - work in progress  
+  *Break bar  
+  *Full bright  
+  *Custom fov  
+  *Item tags  
+  *Motion blur  
+  *Time changer  
+  *No render - may break other visual modules  
   *Block select  
+  *Fake spawner - work in progress  
+  *Fake elytra - work in progress  
+  *Bedrock protect - may be broken  
   *Hud  
-  *Bedrock protect - doesnt work sometimes?  
   
 Movement -  
   *Swing speed  
-  *Free cam  
-  *Free look  
-  *Fast use  
-  *Auto totem(Auto inventory totem)  
-  *Auto rocket  
-  *Auto refill  
-  *Auto bridge  
   *Double click  
-  *Auto crystal  
-  *Auto tool  
-  *Aim assist  
+  *Free cam - may be detectable  
+  *Free look  
+  *Auto refill - may be broken  
+  *Auto bridge - buggy  
+  *Aim assist - buggy  
   *Aim fov  
-  *Tunnel base finder  
+  *Auto tool  
+  *Auto crystal - buggy  
+  *Tunnel base finder - detectable  
   *Auto eat  
+  *Auto mine  
+  *Auto walk  
+  *Fast use  
+  *Auto totem(Inventory)  
+  *Auto rocket  
   
 Player -  
   *Player notify  
   *Auto disconnect  
+  *67  
   *Skin protect  
   *Fake media  
   *Fake pay  
   *Fake stats  
+  *LSD
   *Name protect  
-  *67  
   
 Utility -  
-  *Auto reconnect  
-  *Stash finder  
+  *Auto rejoin  
+  *Silent set home - work in progress  
+  *Stash finder 
   *Block notify  
   *Chat macro  
   *Crafter macro - auto selects sqaures inside of a crafter  
-  *Silent sethome  
