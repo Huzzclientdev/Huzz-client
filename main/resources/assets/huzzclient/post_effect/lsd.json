@@ -1,0 +1,35 @@
+{
+  "targets": { "swap": {} },
+  "passes": [
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "huzzclient:post/lsd",
+      "inputs": [
+        { "sampler_name": "Main", "target": "minecraft:main" }
+      ],
+      "output": "swap",
+      "uniforms": {
+        "LsdUniforms": [
+          { "name": "view_res", "type": "vec2", "value": [1, 1] },
+          { "name": "Time", "type": "float", "value": 0 },
+          { "name": "ColorIntensity", "type": "float", "value": 1 },
+          { "name": "MorphStrength", "type": "float", "value": 1 },
+          { "name": "AberrationStrength", "type": "float", "value": 1 }
+        ]
+      }
+    },
+    {
+      "vertex_shader": "minecraft:core/screenquad",
+      "fragment_shader": "minecraft:post/blit",
+      "inputs": [
+        { "sampler_name": "In", "target": "swap" }
+      ],
+      "output": "minecraft:main",
+      "uniforms": {
+        "BlitConfig": [
+          { "name": "ColorModulate", "type": "vec4", "value": [1, 1, 1, 1] }
+        ]
+      }
+    }
+  ]
+}
