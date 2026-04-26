@@ -1,7 +1,7 @@
 # Huzz-client 1.21.11
 A simple add-on that aims to improve quality of life and ease finding bases on Minecraft servers. Mainly aimed at DonutSMP.
 
-Current modules as of version 3.3.1 - 
+Current modules as of version 3.3.2 - 
 
 Render - 
   *Block ESP
@@ -17,6 +17,9 @@ Render -
   *Custom fov
   *Fake elytra
   *Fake spawner - work in progress
+  *Bedrock hole esp - only 2x1x1 for now
+  *Time changer - client side
+  *Mob esp
 
 Movement - 
   *Swing speed
