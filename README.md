@@ -20,6 +20,9 @@ Render -
   *Bedrock hole esp - only 2x1x1 for now
   *Time changer - client side
   *Mob esp
+  *No render - work in progress
+  *Block select
+  *Hud
 
 Movement - 
   *Swing speed
@@ -33,6 +36,10 @@ Movement -
   *Double click
   *Auto crystal
   *Auto tool
+  *Aim assist
+  *Aim fov
+  *Tunnel base finder
+  *Auto eat
 
 Player - 
   *Player notify
@@ -50,4 +57,4 @@ Utility -
   *Block notify
   *Chat macro
   *Crafter macro - auto selects sqaures inside of a crafter
-  *Silent sethome - work in progress
+  *Silent sethome
