@@ -3,62 +3,64 @@ A simple add-on that aims to improve quality of life and ease finding bases on M
   
 !!Some visual features do not work with some performance mods!!  
   
-Current modules as of version 3.4.1 -  
+Current modules as of version 3.4.2 -  
   
-Render -  
+ESP -  
   *Block esp  
   *Storage esp  
   *Hole esp  
-  *Bedrock hole esp - areas surrounded by bedrock  
-  *Player esp    
+  *Bedrock hole esp  
+  *Player esp  
   *Mob esp  
+  *Stash finder(Notifier)  
+  *Block notify  
+
+Render -   
   *Break bar  
   *Full bright  
-  *Custom fov  
+  *Custom FOV  
   *Item tags  
   *Motion blur  
   *Time changer  
-  *No render - may break other visual modules  
+  *No render - work in progress  
   *Block select  
   *Fake spawner - work in progress  
   *Fake elytra - work in progress  
-  *Bedrock protect - may be broken  
+  *Bedrock protect  
   *Hud  
-  
+  *Music hud  
+  *LSD  
+
+Combat -  
+  *Aim assist  
+  *Aim fov  
+  *Auto crystal - work in progress  
+  *Auto totem  
+
 Movement -  
   *Swing speed  
   *Double click  
-  *Free cam - may be detectable  
+  *Free cam - work in progress  
   *Free look  
-  *Auto refill - may be broken  
-  *Auto bridge - buggy  
-  *Aim assist - buggy  
-  *Aim fov  
+  *Auto refill - work in progress  
+  *Auto bridge  
   *Auto tool  
-  *Auto crystal - buggy  
-  *Tunnel base finder - detectable  
+  *Tunnel finder  
   *Auto eat  
   *Auto mine  
-  *Auto walk  
-  *Fast use  
-  *Auto totem(Inventory)  
-  *Auto rocket  
   
 Player -  
   *Player notify  
-  *Auto disconnect  
+  *Auto Disconnect  
   *67  
+  *Goon  
   *Skin protect  
   *Fake media  
   *Fake pay  
   *Fake stats  
-  *LSD  
-  *Name protect  
-  
+
 Utility -  
   *Auto rejoin  
-  *Silent set home - work in progress  
-  *Stash finder  
-  *Block notify  
+  *Silent home - work in progress  
   *Chat macro  
-  *Crafter macro - auto selects sqaures inside of a crafter  
+  *Crafter macro  
