@@ -3,7 +3,7 @@ A simple add-on that aims to improve quality of life and ease finding bases on M
   
 !!Some visual features do not work with some performance mods!!  
   
-Current modules as of version 3.4.0 -  
+Current modules as of version 3.4.1 -  
   
 Render -  
   *Block esp  
