@@ -7,8 +7,8 @@ Current modules as of version 3.4.0 -
   
 Render -  
   *Block esp  
-  *Storage esp
-  *Hole esp
+  *Storage esp  
+  *Hole esp  
   *Bedrock hole esp - areas surrounded by bedrock  
   *Player esp    
   *Mob esp  
@@ -52,13 +52,13 @@ Player -
   *Fake media  
   *Fake pay  
   *Fake stats  
-  *LSD
+  *LSD  
   *Name protect  
   
 Utility -  
   *Auto rejoin  
   *Silent set home - work in progress  
-  *Stash finder 
+  *Stash finder  
   *Block notify  
   *Chat macro  
   *Crafter macro - auto selects sqaures inside of a crafter  
