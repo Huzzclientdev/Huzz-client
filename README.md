@@ -3,7 +3,7 @@ A simple add-on that aims to improve quality of life and ease finding bases on M
   
 !!Some visual features do not work with some performance mods!!  
   
-Current modules as of version 3.4.2 -  
+Current modules as of version 3.4.4 -  
   
 ESP -  
   *Block esp  
@@ -12,8 +12,11 @@ ESP -
   *Bedrock hole esp  
   *Player esp  
   *Mob esp  
-  *Stash finder(Notifier)  
+  *Stash finder  
   *Block notify  
+  *Sus chunks  
+  *Sus esp  
+  *Player chunks  
 
 Render -   
   *Break bar  
@@ -34,7 +37,9 @@ Render -
 Combat -  
   *Aim assist  
   *Aim fov  
-  *Auto crystal - work in progress  
+  *Auto crystal  
+  *Criticals  
+  *Anchor macro - work in progress
   *Auto totem  
 
 Movement -  
@@ -42,12 +47,16 @@ Movement -
   *Double click  
   *Free cam - work in progress  
   *Free look  
-  *Auto refill - work in progress  
+  *Auto refill    
   *Auto bridge  
   *Auto tool  
   *Tunnel finder  
   *Auto eat  
   *Auto mine  
+  *Area miner   
+  *Auto walk  
+  *Fast use  
+  *Auto rocket  
   
 Player -  
   *Player notify  
@@ -58,6 +67,7 @@ Player -
   *Fake media  
   *Fake pay  
   *Fake stats  
+  *Name protect  
 
 Utility -  
   *Auto rejoin  
