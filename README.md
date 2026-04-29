@@ -3,7 +3,7 @@ A simple add-on that aims to improve quality of life and ease finding bases on M
   
 !!Some visual features do not work with some performance mods!!  
   
-Current modules as of version 3.4.4 -  
+Current modules as of version 3.4.5 -  
   
 ESP -  
   *Block esp  
@@ -15,9 +15,10 @@ ESP -
   *Stash finder  
   *Block notify  
   *Sus chunks  
-  *Sus esp  
+  *Sus esp   
   *Player chunks  
-
+  *Mob chunk finder  
+  
 Render -   
   *Break bar  
   *Full bright  
@@ -33,15 +34,15 @@ Render -
   *Hud  
   *Music hud  
   *LSD  
-
+  
 Combat -  
   *Aim assist  
   *Aim fov  
   *Auto crystal  
   *Criticals  
-  *Anchor macro - work in progress
+  *Anchor macro - work in progress  
   *Auto totem  
-
+  
 Movement -  
   *Swing speed  
   *Double click  
@@ -68,7 +69,7 @@ Player -
   *Fake pay  
   *Fake stats  
   *Name protect  
-
+  
 Utility -  
   *Auto rejoin  
   *Silent home - work in progress  
